@@ -1,0 +1,3 @@
+2026-09-17 14:32:04 WARN database latency high
+2026-09-17 14:32:18 ERROR connection timeout
+2026-09-17 14:32:19 ERROR connection pool exhausted

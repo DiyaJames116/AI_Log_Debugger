@@ -1,0 +1,1 @@
+{"database_timeout":{"file":"benchmarks/database_timeout.log","expected_terms":["connection timeout","pool exhausted"],"root_cause_category":"database"}}

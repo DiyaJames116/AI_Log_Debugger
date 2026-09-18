@@ -1,0 +1,7 @@
+2026-09-17 14:31:58 INFO api request latency increased to 1200ms
+2026-09-17 14:32:04 WARN database latency high host=db-01
+2026-09-17 14:32:18 ERROR api.database: connection timeout request_id=req-100
+2026-09-17 14:32:19 ERROR api.database: connection pool exhausted request_id=req-101
+2026-09-17 14:32:21 ERROR api request timeout request_id=req-101
+2026-09-17 14:32:23 ERROR HTTP 503 service unavailable request_id=req-101 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.payload.signature
+2026-09-17 14:32:24 ERROR api.database: connection timeout request_id=req-102

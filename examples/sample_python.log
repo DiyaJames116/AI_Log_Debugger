@@ -1,0 +1,5 @@
+2026-09-17 09:10:00 ERROR worker task failed
+Traceback (most recent call last):
+  File "worker.py", line 12, in run
+    connect()
+ConnectionTimeoutError: database connection timeout
